@@ -1,5 +1,7 @@
 ## TAXI CHURRO
 
+![alt text](image-8.png)
+
 ## PROBLEMAS
 cuando una personha quiere una m0ovilidad estas estan demasiado lejos de donde se encuentra ella, por ese motivo seria suelen llegar tarde a su lugar de destino.
 
@@ -57,6 +59,7 @@ contar con la ubicaion actualizada en cada momento del dia.
 
 
 ## mapa de navegacion
- ![alt text](imag![alt text](image![alt text](image.png).png)e.png)
+![alt text](image-4.png)
 
 ## PATRON DE ARQUITECTURA:
+ ![alt text](imag![alt text](image![alt text](image.png).png)e.png)
